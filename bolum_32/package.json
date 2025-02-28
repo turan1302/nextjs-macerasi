@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@next/swc-darwin-arm64": "^15.2.0",
+    "@next/swc-darwin-arm64": "^15.1.7",
+    "axios": "^1.7.9",
+    "bootstrap": "^4.6.0",
+    "formik": "^2.4.6",
     "next": "15.1.6",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-bootstrap": "^2.10.9",
+    "react-dom": "^19.0.0",
+    "sweetalert2": "^11.17.2",
+    "yup": "^1.6.1"
   }
 }
