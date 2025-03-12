@@ -1,0 +1,30 @@
+{
+  "name": "bolum_34",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "browser": {
+    "crypto": false
+  },
+  "dependencies": {
+    "axios": "^1.8.2",
+    "crypto-browserify": "^3.12.1",
+    "crypto-js": "^4.2.0",
+    "formik": "^2.4.6",
+    "jwt-decode": "^4.0.0",
+    "jwt-encode": "^1.0.1",
+    "mobx": "^6.13.6",
+    "mobx-react": "^9.2.0",
+    "next": "15.2.0",
+    "prop-types": "^15.8.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "sweetalert2": "^11.17.2",
+    "yup": "^1.6.1"
+  }
+}
